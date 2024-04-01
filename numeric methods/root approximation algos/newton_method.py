@@ -1,0 +1,1 @@
+## This method approximates the root of a continuous function in a initial pre determined interval [a, b] by checking where the tangent line of a starting point crosses the x-axis, then choosing a new tangent line vertically above this intersection and on and on... ##
